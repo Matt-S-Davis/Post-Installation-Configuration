@@ -17,34 +17,59 @@ This tutorial outlines the post install configuration of the open-source help de
 
 <h2>Post install Config Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Configure Agents
+- Configure Users
+- Configure SLA
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lo7FDOL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the Admin panel, then to Agents tab, Roles subsection, then create your new role and assign permissions.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NcKthJI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Admins panel, Agents tab, Departments subsection, then create your new department.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Ii6C6Pr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Admin Panel, Agents tab, Teams subsection, the create your new team.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DZMbqI5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Admin Panel, Agents tab, Agents subsection, the create your new Agent.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uVv71Yp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Agent Panel, Users tab, User Directory subsection, the create your new User.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uUurP0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Admin Panel, Manage tab, SLA subsection, the create your new SLA.
 </p>
 <br />
